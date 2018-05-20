@@ -1,5 +1,7 @@
 # drawpeppa
 
+This project is a Golang mimic of [如何用 C 语言画小猪佩奇](https://zhuanlan.zhihu.com/p/37031514) by Milo Yip.
+
 `go run main.go 1`
 
 you will get:
